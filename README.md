@@ -43,7 +43,7 @@
 
 | JDK 厂商 | JDK 版本 | 下载链接 | 校验值 (SHA256) | lib情况 |
 |----------|----------|----------|----------------|----------|
-| 腾讯 Kona | 21 | [敬请期待] | `54c3a1f309f5a784872a7006bf69e2e851a2421aad5b912325ae254bbe6780a8` | `敬请期待`|
+| 腾讯 Kona | 21 | [下载测试版](https://objects.githubusercontent.com/github-production-release-asset-2e65be/1010154554/4898f3cd-f996-48de-8ea0-fef34656ff29?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250628T145949Z&X-Amz-Expires=1800&X-Amz-Signature=10bf18f0c6be6a48583044baa8ca383ea5a5fba382db3b84173a823b749dd081&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dkonajdk21_v1.tar.xz&response-content-type=application%2Foctet-stream) | `54c3a1f309f5a784872a7006bf69e2e851a2421aad5b912325ae254bbe6780a8` | `all`|
 | 腾讯 Kona | 17 | [敬请期待] | `敬请期待` | `敬请期待`|
 | 腾讯 Kona | 1.8 | [敬请期待] | `敬请期待` | `敬请期待`|
 | 阿里 Dragonwell | 21 | [敬请期待] | `敬请期待` | `敬请期待`|
