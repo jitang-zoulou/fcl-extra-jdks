@@ -54,16 +54,13 @@
 | 华为毕昇 | 1.8 | [敬请期待] | `敬请期待` | `敬请期待`|
 
 ### 历史版本
-访问 [Release 页面](https://github.com/yourname/fcl-extra-jdks/releases) 获取所有历史构建
+访问 [Release 页面](https://github.com/jitang-zoulou/fcl-extra-jdks/releases/) 获取所有历史构建
 
 ---
 
 ## 💬 贡献
 
 ### 问题反馈
-遇到任何问题？欢迎提交 [Issues](https://github.com/yourname/fcl-extra-jdks/issues)！
-
-### 请求构建
-需要特定组合？在 [Discussions](https://github.com/yourname/fcl-extra-jdks/discussions) 发起请求：
+遇到任何问题？欢迎提交 [Issues](https://github.com/jitang-zoulou/fcl-extra-jdks/issues)
 
 ---
