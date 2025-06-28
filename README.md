@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <strong>为 Fold Craft Launcher 提供优化的 JDK 集合 | 每日构建更新</strong>
+  <strong>为 Fold Craft Launcher 提供 JDK </strong>
 </p>
 
 <p align="center">
